@@ -1,0 +1,7 @@
+gudhi
+persim
+ripser
+pandas
+matplotlib
+scipy
+scikit-learn
